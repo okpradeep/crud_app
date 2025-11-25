@@ -4,4 +4,4 @@
 - We also use XAMPP to create a database.
 - Mainly the files are written in php. 
 - It is highly effecient and easy to use. 
-- It is fast and any can use it as there convenience.
+- It is fast and anyone can use it as there convenience.
